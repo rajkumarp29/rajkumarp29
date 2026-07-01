@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:7c3aed&height=280&section=header&text=Potti%20Raj%20Kumar&fontSize=60&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,35:2e1065,70:5b21b6,100:9333ea&height=300&section=header&text=Potti%20Raj%20Kumar&fontSize=62&fontColor=f3e8ff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&descSize=19" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Developer;Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL;AI%2FML+%7C+Graph+Neural+Networks;Building+Enterprise-Grade+Digital+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=C084FC&background=0A0118&center=true&vCenter=true&width=850&separator=%3B&lines=Full+Stack+Software+Developer;Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL;AI%2FML+%7C+Graph+Neural+Networks;Building+Enterprise-Grade+Digital+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![MCA](https://img.shields.io/badge/MCA-CGPA%208.70-6d28d9?style=flat-square&labelColor=1a0b2e)
-![Location](https://img.shields.io/badge/📍-Bhubaneswar%2C%20India-4c1d95?style=flat-square&labelColor=1a0b2e)
+![MCA](https://img.shields.io/badge/MCA-CGPA%208.70-9333ea?style=flat-square&labelColor=0a0118)
+![Location](https://img.shields.io/badge/📍-Bhubaneswar%2C%20India-5b21b6?style=flat-square&labelColor=0a0118)
 
 <br/>
 
-<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://linkedin.com/in/potti-raj-kumar"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="mailto:pottirajkumar007@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://linkedin.com/in/potti-raj-kumar"><img src="https://img.shields.io/badge/LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0118" /></a>
+<a href="mailto:pottirajkumar007@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/GitHub-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0118" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajkumarp29&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/rajkumarp29?color=6d28d9&style=flat-square&label=Followers&labelColor=1a0b2e)
-![Stars](https://img.shields.io/github/stars/rajkumarp29?color=4c1d95&style=flat-square&label=Stars&labelColor=1a0b2e)
+![Profile Views](https://komarev.com/ghpvc/?username=rajkumarp29&color=9333ea&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/rajkumarp29?color=5b21b6&style=flat-square&label=Followers&labelColor=0a0118)
+![Stars](https://img.shields.io/github/stars/rajkumarp29?color=2e1065&style=flat-square&label=Stars&labelColor=0a0118)
 
 </div>
 
@@ -193,7 +193,7 @@ Delivering production-grade full-stack modules across authentication, banking, l
 
 **NPTEL**
 
-![NPTEL](https://img.shields.io/badge/Introduction%20to%20Industry%204.0%20%26%20IIoT-NPTEL-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a0b2e)
+![NPTEL](https://img.shields.io/badge/Introduction%20to%20Industry%204.0%20%26%20IIoT-NPTEL-5b21b6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0a0118)
 
 ---
 
@@ -201,10 +201,10 @@ Delivering production-grade full-stack modules across authentication, banking, l
 
 <div align="center">
 
-<a href="https://leetcode.com/rajkumarp29"><img src="https://img.shields.io/badge/LeetCode-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://www.geeksforgeeks.org/user/rajkumarp29"><img src="https://img.shields.io/badge/GeeksforGeeks-6d28d9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://www.hackerrank.com/rajkumarp29"><img src="https://img.shields.io/badge/HackerRank-8b5cf6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://www.codechef.com/users/rajkumarp29"><img src="https://img.shields.io/badge/CodeChef-a78bfa?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://leetcode.com/rajkumarp29"><img src="https://img.shields.io/badge/LeetCode-9333ea?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://www.geeksforgeeks.org/user/rajkumarp29"><img src="https://img.shields.io/badge/GeeksforGeeks-5b21b6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://www.hackerrank.com/rajkumarp29"><img src="https://img.shields.io/badge/HackerRank-7c3aed?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://www.codechef.com/users/rajkumarp29"><img src="https://img.shields.io/badge/CodeChef-c084fc?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0118" /></a>
 
 </div>
 
@@ -214,10 +214,10 @@ Delivering production-grade full-stack modules across authentication, banking, l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajkumarp29&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarp29&theme=radical&hide_border=true&background=1a0b2e&ring=7c3aed&fire=a78bfa&currStreakLabel=e9d5ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajkumarp29&show_icons=true&theme=radical&hide_border=true&bg_color=0a0118&title_color=c084fc&icon_color=9333ea&text_color=e9d5ff&border_radius=10" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarp29&theme=radical&hide_border=true&background=0a0118&ring=9333ea&fire=c084fc&currStreakLabel=e9d5ff&border_radius=10" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarp29&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a78bfa&text_color=e9d5ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarp29&layout=compact&theme=radical&hide_border=true&bg_color=0a0118&title_color=c084fc&text_color=e9d5ff&border_radius=10" width="49%"/>
 
 </div>
 
@@ -237,7 +237,7 @@ Delivering production-grade full-stack modules across authentication, banking, l
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarp29&theme=redical&bg_color=1a0b2e&color=a78bfa&line=7c3aed&point=e9d5ff&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarp29&theme=radical&bg_color=0a0118&color=c084fc&line=9333ea&point=f3e8ff&area=true&area_color=5b21b6&hide_border=true" width="95%"/>
 
 </div>
 
@@ -279,10 +279,10 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:pottirajkumar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://linkedin.com/in/potti-raj-kumar"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" /></a>
-<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="mailto:pottirajkumar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://linkedin.com/in/potti-raj-kumar"><img src="https://img.shields.io/badge/LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/GitHub-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0118" /></a>
+<a href="https://github.com/rajkumarp29"><img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0118" /></a>
 
 </div>
 
@@ -292,6 +292,6 @@ Open To:
 
 *"Engineering isn't just about writing code — it's about building systems that scale, secure, and endure."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a0b2e&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,35:5b21b6,70:2e1065,100:0a0118&height=160&section=footer" width="100%"/>
 
 </div>
