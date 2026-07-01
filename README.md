@@ -70,8 +70,7 @@ through them.
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
-<img src="https://img.shields.io/badge/SoapUI-9333ea?style=for-the-badge&logoColor=white&labelColor=0a0118" />
-<img src="https://img.shields.io/badge/Postman-5b21b6?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0118" />
+<a href="https://www.soapui.org/"><img src="https://img.shields.io/badge/SoapUI-9333ea?style=for-the-badge&logoColor=white&labelColor=0a0118" /></a>
 
 </div>
 
